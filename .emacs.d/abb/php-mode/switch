@@ -1,0 +1,15 @@
+switch (<field "what">) {
+    case <field "case1">:
+        <field "do it1">;
+        break;
+    case <field "case2">:
+        <field "do it2">;
+        break;
+    case <field "case3">:
+        <field "do it3">;
+        break;
+    default:
+        <field "do it by default">;
+        break;
+}
+<endpoint>

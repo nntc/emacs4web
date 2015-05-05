@@ -1,0 +1,6 @@
+if (<field "what">) {
+	<field "do it"> 
+	} else {
+	<field "else do it"> 
+	}
+<endpoint> 
